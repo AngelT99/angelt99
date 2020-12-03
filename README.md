@@ -10,6 +10,13 @@ _This is just a screenshot of my private repository. If you would like to review
 
 ## Group Projects
 
+| Project         |  Description                              |      Technologies used                    |
+| :-------------- | :---------------------------------------- | :---------------------------------------- |
+| ePortfolio for Design Student |  This ePortfolio is designed for a Design Student to display his artwork online  | Javascript,  HTML, CSS, JSX
+React, MongoDB, Heroku
+RESTful, MVC (Model, View, Control)
+   |
+
 ## Individual Projects
 
 
