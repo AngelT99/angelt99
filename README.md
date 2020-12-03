@@ -3,7 +3,7 @@
 ### Here are the project I worked on before:
 
 <p align="left">
-  <img src="{6789CD37-EC8C-47FF-A2D3-99541CB50339}.png" height="800"  >
+  <img src="{6789CD37-EC8C-47FF-A2D3-99541CB50339}.png" height="600"  >
 </p>
 
 ## Group Projects
