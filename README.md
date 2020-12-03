@@ -10,12 +10,15 @@ _This is just a screenshot of my private repository. If you would like to review
 
 ## Group Projects
 
-| Project         |  Description                              |      Technologies used                    |
-| :-------------- | :---------------------------------------- | :---------------------------------------- |
-| ePortfolio for Design Student |  This ePortfolio is designed for a Design Student to display his artwork online  | Javascript,  HTML, CSS, JSX
-React, MongoDB, Heroku
-RESTful, MVC (Model, View, Control)
-   |
+### ePortfolio-for-design-student
+Description: The ePortfolio is made for a design student to display their artwork online. 
+Technologies used: Javascript, HTML, CSS, JSX React, MongoDB, Heroku RESTful, MVC (Model, View, Control)
+
+### Outpost-Defence-Game
+Description: 
+Technologies used: Unity, C#
+
+
 
 ## Individual Projects
 
