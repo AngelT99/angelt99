@@ -5,7 +5,7 @@
 <p align="left">
   <img src="{6789CD37-EC8C-47FF-A2D3-99541CB50339}.png" height="450"  >
 </p>
-#### _This is just a screenshot of my private repository. If you would like to review my code, please contact me and I will provide you access. _
+(_This is just a screenshot of my private repository. If you would like to review my code, please contact me and I will provide you access. _)
 
 ## Group Projects
 
