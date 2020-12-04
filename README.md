@@ -72,6 +72,16 @@ This website is designed to help people identify vegetarian/vegan food products 
 
 
 
+## Whist-Card-Game
+
+  <p align="left">
+    <img src="Whist.png" height="350"  >
+  </p>
+  
+#### Technologies used: 
+**Java, UML diagram, Object Oriented Software design patterns/principles**
+
+
 
 # Individual Projects
 
