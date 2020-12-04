@@ -17,7 +17,7 @@ https://e-portfolio-website.herokuapp.com/
 #### Description: 
 The ePortfolio is made for a design student to display their artwork online. 
 #### Technologies used: 
-Javascript, HTML, CSS, JSX React, MongoDB, Heroku RESTful, MVC (Model, View, Control)
+**Javascript, HTML, CSS, JSX React, MongoDB, Heroku RESTful, MVC (Model, View, Control)**
 
 
 
@@ -28,17 +28,17 @@ Javascript, HTML, CSS, JSX React, MongoDB, Heroku RESTful, MVC (Model, View, Con
   https://www.youtube.com/watch?v=whNglbiKtTw&list=LL&index=6
   
   <p align="left">
-  <img src="outpost1.png" height="300"  >
+  <img src="outpost2.png" height="300"  >
 </p>
 
-<p align="right">
-  <img src="outpost2.png" height="300"  >
+<p align="left">
+  <img src="outpost1.png" height="300"  >
 </p>
 
 #### Description: 
 Outpost Defence is a top-view survival shooter game where the player is trapped in a military outpost in the middle of the desert. He has to fight his way out of waves and waves of enemies who are trying to invade the outpost. Luckily, there are still some weapons and equipments left behind to help him survive the enemy swarm.
 #### Technologies used: 
-Unity, C#
+**Unity, C#**
 
 
 
