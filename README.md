@@ -14,6 +14,15 @@ _This is just a screenshot of my private repository. If you would like to review
 
 ## ePortfolio-for-design-student
 https://e-portfolio-website.herokuapp.com/
+
+  <p align="left">
+    <img src="eP1.png" height="300"  >
+  </p>
+
+  <p>
+    <img src="eP2.png" height="300"  >
+  </p>
+  
 #### Description: 
 The ePortfolio is made for a design student to display their artwork online. 
 #### Technologies used: 
