@@ -16,7 +16,7 @@ _This is just a screenshot of my private repository. If you would like to review
 https://e-portfolio-website.herokuapp.com/
 
   <p align="left">
-    <img src="eP1.png" height="400"  >
+    <img src="eP1.png" height="350"  >
   </p>
   
 #### Description: 
@@ -34,11 +34,11 @@ https://e-portfolio-website.herokuapp.com/
   https://www.youtube.com/watch?v=whNglbiKtTw&list=LL&index=6
   
  <p align="left">
-   <img src="outpost2.png" height="400"  >
+   <img src="outpost2.png" height="350"  >
  </p>
 
  <p align="left">
-   <img src="outpost1.png" height="400"  >
+   <img src="outpost1.png" height="350"  >
  </p>
 
 #### Description: 
@@ -56,7 +56,7 @@ https://vegrify-team.herokuapp.com/
   </p>
   
   <p align="left">
-    <img src="Veg.png" height="600"  >
+    <img src="Veg.png" height="500"  >
   </p>
   
   <p align="left">
@@ -66,7 +66,7 @@ https://vegrify-team.herokuapp.com/
  
   
 #### Description: 
-This website is to help people identify vegetarian food products from the ingredient lists since it is very time-consuming for vegetarians to look up the ingredients one by one whether they are vegetarian-friendly or not. 
+This website is designed to help people identify vegetarian/vegan food products by taking and uploading a photo of the ingredient list, since it is very time-consuming for vegetarians to look up the ingredients one by one whether they are vegetarian-friendly or not. 
 #### Technologies used: 
 **MERN (MongoDB, Express, React, Node) full-stack, Javascript, HTML, CSS, JSX React, Testing**
 
