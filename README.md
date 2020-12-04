@@ -56,16 +56,14 @@ https://vegrify-team.herokuapp.com/
   </p>
   
   <p align="left">
-    <img src="Veg.png" height="300"  >
+    <img src="Veg.png" height="450"  >
   </p>
   
   <p align="left">
-    <img src="Veg5.jpg" width="300"  >
+    <img src="Veg5.jpg" width="400"  >
+    <img src="Veg3.jpg" width="400"  >
   </p>
-  
-  <p>
-    <img src="Veg3.jpg" width="300"  >
-  </p>
+ 
   
 #### Description: 
 This website is to help people identify vegetarian food products from the ingredient lists since it is very time-consuming for vegetarians to look up the ingredients one by one whether they are vegetarian-friendly or not. 
