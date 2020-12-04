@@ -8,29 +8,33 @@
 
 _This is just a screenshot of my private repository. If you would like to review my code, please contact me and I will provide you access._
 
+
 # Group Projects
+
 
 ## ePortfolio-for-design-student
 https://e-portfolio-website.herokuapp.com/
-### Description: 
+#### Description: 
 The ePortfolio is made for a design student to display their artwork online. 
-### Technologies used: 
+#### Technologies used: 
 Javascript, HTML, CSS, JSX React, MongoDB, Heroku RESTful, MVC (Model, View, Control)
+
 
 
 ## Outpost-Defence-Game
 - Game Link (play in FullScreen):
   https://outpost-defence.herokuapp.com/
-- Game demo video: OUTPOST DEFENCE -- Game Trailer
+- Game Trailer Video:
   https://www.youtube.com/watch?v=whNglbiKtTw&list=LL&index=6
-### Description: 
+#### Description: 
 Outpost Defence is a top-view survival shooter game where the player is trapped in a military outpost in the middle of the desert. He has to fight his way out of waves and waves of enemies who are trying to invade the outpost. Luckily, there are still some weapons and equipments left behind to help him survive the enemy swarm.
-### Technologies used: 
+#### Technologies used: 
 Unity, C#
 
 
 
-## Individual Projects
+
+# Individual Projects
 
 
 <!--
