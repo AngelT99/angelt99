@@ -31,7 +31,7 @@ The ePortfolio is made for a design student to display their artwork online.
   <img src="outpost2.png" height="300"  >
 </p>
 
-<p align="left">
+  <p align="left">
   <img src="outpost1.png" height="300"  >
 </p>
 
