@@ -28,7 +28,7 @@ https://e-portfolio-website.herokuapp.com/
   </p>
   
 #### Description: 
-The ePortfolio is made for a design student to display his/her artwork online. Main features include: Artwork Gallery, Blog, Store, CMS.
+The ePortfolio is made for a design student (our client) to display his/her artwork online. Main features include: Artwork Gallery, Blog, Store, CMS.
 #### Technologies used: 
 **Javascript, HTML, CSS, JSX React, MongoDB, Heroku RESTful, MVC (Model, View, Control)**
 
@@ -40,13 +40,13 @@ The ePortfolio is made for a design student to display his/her artwork online. M
 - Game Trailer Video:
   https://www.youtube.com/watch?v=whNglbiKtTw&list=LL&index=6
   
-  <p align="left">
-    <img src="outpost2.png" height="300"  >
-  </p>
+ <p align="left">
+   <img src="outpost2.png" height="300"  >
+ </p>
 
-  <p align="left">
-    <img src="outpost1.png" height="300"  >
-  </p>
+ <p align="left">
+   <img src="outpost1.png" height="300"  >
+ </p>
 
 #### Description: 
 Outpost Defence is a top-view survival shooter game where the player is trapped in a military outpost in the middle of the desert. He has to fight his way out of waves and waves of enemies who are trying to invade the outpost. Luckily, there are still some weapons and equipments left behind to help him survive the enemy swarm.
