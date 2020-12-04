@@ -110,6 +110,16 @@ This website is designed to help people identify vegetarian/vegan food products 
 **C, Scheduling Algorithms, Memory Allocation Algorithms**
 
 
+
+## Puzzle-Solver
+
+#### Description:
+The puzzle is called Wires. It starts with an n by n grid of wire tiles: square tiles with wires pointing in zero, one, or two directions. To solve the puzzle, we need to rotate, or orient, the tiles so that every wire connects with a wire from an adjacent tile (and no wires point towards the edges of the grid). My project is to translate a puzzle instance into a propositional formula to solve the puzzle. 
+  
+#### Technologies used: 
+**Haskell, Propositional Logic**
+
+
 <!--
 **AngelT99/angelt99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
