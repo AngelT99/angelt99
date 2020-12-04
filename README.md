@@ -56,15 +56,15 @@ https://vegrify-team.herokuapp.com/
   </p>
   
   <p align="left">
-    <img src="Veg.png" height="300"  >
+    <img src="Veg.jpg" height="300"  >
   </p>
   
   <p align="left">
-    <img src="Veg5.png" height="300"  >
+    <img src="Veg5.jpg" height="300"  >
   </p>
   
   <p>
-    <img src="Veg3.png" height="300"  >
+    <img src="Veg3.jpg" height="300"  >
   </p>
   
 #### Description: 
