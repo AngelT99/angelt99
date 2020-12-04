@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Here are the projects I worked/working on:
+## Here are the projects I worked/am working on:
 
 <p align="left">
   <img src="{6789CD37-EC8C-47FF-A2D3-99541CB50339}.png" height="450"  >
@@ -23,7 +23,7 @@ https://e-portfolio-website.herokuapp.com/
 - The ePortfolio is made for a design student (our client) to display his/her artwork online. 
 - Main features include: Artwork Gallery, Blog, Store, CMS.
 #### Technologies used: 
-**Javascript, HTML, CSS, JSX React, MongoDB, Heroku RESTful, MVC (Model, View, Control)**
+**Javascript, HTML, CSS, JSX React, MongoDB, Heroku, RESTful**
 
 
 
