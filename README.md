@@ -16,7 +16,7 @@ _This is just a screenshot of my private repository. If you would like to review
 https://e-portfolio-website.herokuapp.com/
 
   <p align="left">
-    <img src="eP1.png" height="300"  >
+    <img src="eP1.png" height="400"  >
   </p>
   
 #### Description: 
@@ -34,11 +34,11 @@ https://e-portfolio-website.herokuapp.com/
   https://www.youtube.com/watch?v=whNglbiKtTw&list=LL&index=6
   
  <p align="left">
-   <img src="outpost2.png" height="300"  >
+   <img src="outpost2.png" height="400"  >
  </p>
 
  <p align="left">
-   <img src="outpost1.png" height="300"  >
+   <img src="outpost1.png" height="400"  >
  </p>
 
 #### Description: 
@@ -56,12 +56,12 @@ https://vegrify-team.herokuapp.com/
   </p>
   
   <p align="left">
-    <img src="Veg.png" height="450"  >
+    <img src="Veg.png" height="600"  >
   </p>
   
   <p align="left">
-    <img src="Veg5.jpg" width="400"  >
-    <img src="Veg3.jpg" width="400"  >
+    <img src="Veg5.jpg" width="450"  >
+    <img src="Veg3.jpg" width="450"  >
   </p>
  
   
