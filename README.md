@@ -90,11 +90,24 @@ This website is designed to help people identify vegetarian/vegan food products 
 ## Web-Crawler
 
 #### Description:
-- This project was to crawl a website. I used socket programming, which is fundamental to writing all internet applications, and also about the HTTP application layer protocol. 
+- This project is to crawl a website. I use socket programming, which is fundamental to writing all internet applications, and also about the HTTP application layer protocol. 
 - The program will be given a URL on the command line, pointing to an HTML page. The program will be called crawler and it might, for example, be invoked as: crawler http://web1.comp30023 The program will first fetch the indicated HTML page. The program will then recursively follow all hypertext links (href="..." attributes in <a ...> anchor tags) and fetch the indicated pages if all but the first components of the host match the host of the URL on the command line.
   
 #### Technologies used: 
 **C, HTTP application, Socket API**
+
+
+
+
+## Process-and-Memory-Management
+
+#### Description:
+- This project is to write a simulator that allocates processes to a CPU and manages memory allocation among the running processes. 
+- Process scheduling algorithms used: First-comg first-served, Round-robin, Shortest Job First.
+- Memory Management algorithms used: Swapping, Virtual Memory.
+  
+#### Technologies used: 
+**C, Scheduling Algorithms, Memory Allocation Algorithms**
 
 
 <!--
