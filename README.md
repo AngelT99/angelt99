@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Here are the projects I worked on:
+## Here are the projects I worked/working on:
 
 <p align="left">
   <img src="{6789CD37-EC8C-47FF-A2D3-99541CB50339}.png" height="450"  >
@@ -52,7 +52,19 @@ Outpost Defence is a top-view survival shooter game where the player is trapped 
 https://vegrify-team.herokuapp.com/
 
   <p align="left">
+    <img src="Veg4.png" weight="300"  >
+  </p>
+  
+  <p align="left">
     <img src="Veg.png" height="300"  >
+  </p>
+  
+  <p align="left">
+    <img src="Veg5.png" height="300"  >
+  </p>
+  
+  <p>
+    <img src="Veg3.png" height="300"  >
   </p>
   
 #### Description: 
