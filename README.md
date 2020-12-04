@@ -18,17 +18,10 @@ https://e-portfolio-website.herokuapp.com/
   <p align="left">
     <img src="eP1.png" height="300"  >
   </p>
-
-  <p align="left">
-    <img src="eP2.png" height="300"  >
-  </p>
-  
-  <p align="left">
-    <img src="eP3.png" height="300"  >
-  </p>
   
 #### Description: 
-The ePortfolio is made for a design student (our client) to display his/her artwork online. Main features include: Artwork Gallery, Blog, Store, CMS.
+- The ePortfolio is made for a design student (our client) to display his/her artwork online. 
+- Main features include: Artwork Gallery, Blog, Store, CMS.
 #### Technologies used: 
 **Javascript, HTML, CSS, JSX React, MongoDB, Heroku RESTful, MVC (Model, View, Control)**
 
