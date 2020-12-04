@@ -28,12 +28,12 @@ The ePortfolio is made for a design student to display their artwork online.
   https://www.youtube.com/watch?v=whNglbiKtTw&list=LL&index=6
   
   <p align="left">
-  <img src="outpost2.png" height="300"  >
-</p>
+    <img src="outpost2.png" height="300"  >
+  </p>
 
   <p align="left">
-  <img src="outpost1.png" height="300"  >
-</p>
+    <img src="outpost1.png" height="300"  >
+  </p>
 
 #### Description: 
 Outpost Defence is a top-view survival shooter game where the player is trapped in a military outpost in the middle of the desert. He has to fight his way out of waves and waves of enemies who are trying to invade the outpost. Luckily, there are still some weapons and equipments left behind to help him survive the enemy swarm.
