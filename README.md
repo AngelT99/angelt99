@@ -48,6 +48,20 @@ Outpost Defence is a top-view survival shooter game where the player is trapped 
 
 
 
+## Vegrify
+https://vegrify-team.herokuapp.com/
+
+  <p align="left">
+    <img src="Veg.png" height="300"  >
+  </p>
+  
+#### Description: 
+This website is to help people identify vegetarian food products from the ingredient lists since it is very time-consuming for vegetarians to look up the ingredients one by one whether they are vegetarian-friendly or not. 
+#### Technologies used: 
+**MERN (MongoDB, Express, React, Node) full-stack, Javascript, HTML, CSS, JSX React, Testing**
+
+
+
 
 # Individual Projects
 
