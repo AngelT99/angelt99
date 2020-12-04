@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Here are the projects I worked on:
+## Here are the projects I worked on:
 
 <p align="left">
   <img src="{6789CD37-EC8C-47FF-A2D3-99541CB50339}.png" height="450"  >
@@ -8,10 +8,9 @@
 
 _This is just a screenshot of my private repository. If you would like to review my code, please contact me and I will provide you access._
 
-## Group Projects
+# Group Projects
 
-
-### ePortfolio-for-design-student
+## ePortfolio-for-design-student
 https://e-portfolio-website.herokuapp.com/
 ### Description: 
 The ePortfolio is made for a design student to display their artwork online. 
@@ -19,7 +18,7 @@ The ePortfolio is made for a design student to display their artwork online.
 Javascript, HTML, CSS, JSX React, MongoDB, Heroku RESTful, MVC (Model, View, Control)
 
 
-### Outpost-Defence-Game
+## Outpost-Defence-Game
 - Game Link (play in FullScreen):
   https://outpost-defence.herokuapp.com/
 - Game demo video: OUTPOST DEFENCE -- Game Trailer
