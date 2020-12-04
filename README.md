@@ -52,19 +52,19 @@ Outpost Defence is a top-view survival shooter game where the player is trapped 
 https://vegrify-team.herokuapp.com/
 
   <p align="left">
-    <img src="Veg4.png" weight="300"  >
+    <img src="Veg4.jpg" width="300"  >
   </p>
   
   <p align="left">
-    <img src="Veg.jpg" height="300"  >
+    <img src="Veg.png" height="300"  >
   </p>
   
   <p align="left">
-    <img src="Veg5.jpg" height="300"  >
+    <img src="Veg5.jpg" width="300"  >
   </p>
   
   <p>
-    <img src="Veg3.jpg" height="300"  >
+    <img src="Veg3.jpg" width="300"  >
   </p>
   
 #### Description: 
